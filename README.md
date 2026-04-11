@@ -1,0 +1,2 @@
+# unity-android-game-integration
+本專案為一個Android遊戲應用程式開發練習，實作登入系統、難度選擇與遊戲流程控制。透過Activity設計不同畫面並管理使用者操作流程，學習應用程式架構與互動設計。同時熟悉Android開發流程與Git版本控制，作為行動應用開發實務練習。
