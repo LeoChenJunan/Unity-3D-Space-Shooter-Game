@@ -152,4 +152,4 @@
 
 ## 十、Repository
 
-請在此放入 GitHub 專案連結
+https://github.com/LeoChenJunan/Unity-3D-Space-Shooter-Game
