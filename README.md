@@ -65,19 +65,19 @@
 
 ### （1）主要遊戲畫面
 
-
+![遊戲畫面](https://raw.githubusercontent.com/LeoChenJunan/Unity-3D-Space-Shooter-Game/main/%E9%81%8A%E6%88%B2%E7%95%AB%E9%9D%A2.png)
 
 ---
 
 ### （2）戰鬥與特效展示
 
-
+![射擊特效](https://raw.githubusercontent.com/LeoChenJunan/Unity-3D-Space-Shooter-Game/main/%E5%B0%84%E6%93%8A%E7%89%B9%E6%95%88.png)
 
 ---
 
 ### （3）Unity 開發畫面
 
-
+![開發畫面](https://raw.githubusercontent.com/LeoChenJunan/Unity-3D-Space-Shooter-Game/main/%E9%96%8B%E7%99%BC%E7%95%AB%E9%9D%A2.png)
 
 ---
 
